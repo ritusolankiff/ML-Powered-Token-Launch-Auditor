@@ -1,0 +1,5 @@
+# No external dependencies required for the basic heuristic version.
+# If you later add ML models, you might include, e.g.:
+# scikit-learn
+# joblib
+# web3
